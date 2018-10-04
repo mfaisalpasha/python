@@ -16,19 +16,19 @@ while q != "quit":
     elif(user1==1) and (user2==3):
                     print("user1 win !")
     elif(user1==1) and (user2==1):
-                    print("Deaw game !")
+                    print("Draw game !")
     elif(user1==2) and (user2==1):
                     print("user1 win !")
     elif(user1==2) and (user2==3):
                     print("user2 win !")
     elif(user1==2) and (user2==2):
-                    print("Deaw game !")
+                    print("Draw game !")
     elif(user1==3) and (user2==1):
                     print("user2 win !")
     elif(user1==3) and (user2==2):
                     print("user1 win !")
     elif(user1==3) and (user2==3):
-                    print("Deaw game !")
+                    print("Draw game !")
     else:
                     print("Invalid Input !!")
     
